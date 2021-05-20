@@ -14,7 +14,9 @@
 5) Có thể có lỗi xảy ra trong quá trình biên dịch do đây là phiên bản chưa test trên máy khác 
 
 
-## Chức năng:
-
-### Login:
+## Login:
 ![Alt text](hinh/login.jpg?raw=true "Form đăng nhập")
+
+Đăng nhập tài khoản có phân biệt nhân viên và khách hàng từ đó mở ra screen phù hợp
+
+
