@@ -10,8 +10,9 @@
 ### Lưu ý:
 1) Code được thực hiên trên Eclipse các phần mềm khác có thể xảy ra lỗi trên quá trình biên dịch
 2) Các ảnh được load trên đồ án sẽ mất vì nó được set link cứng theo máy
-3) Do code sử dụng sql Server để kết nối database nên nếu xữ dụng xamPP \nthì phải vào file: database.properties để chỉnh lại thông số phù hợp
-4) Có thể có lỗi xảy ra trong quá trình biên dịch do đây là phiên bản chưa test trên máy khác 
+3) Do code sử dụng sql Server để kết nối database nên nếu xữ dụng xamPP 
+thì phải vào file: database.properties để chỉnh lại thông số phù hợp
+5) Có thể có lỗi xảy ra trong quá trình biên dịch do đây là phiên bản chưa test trên máy khác 
 
 
 ## Chức năng:
