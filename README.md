@@ -154,7 +154,7 @@ Bao gồm chức năng sau:
 
 ### 2.Chức năng đặt vé:
 
-![Alt text](hinh/admin/datve.jpg?raw=true "Đặt vé")
+![Alt text](hinh/user/datve.jpg?raw=true "Đặt vé")
 
 Bao gồm chức năng sau:
 1) Xem thông tin chuyến bay
