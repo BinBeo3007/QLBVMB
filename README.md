@@ -18,6 +18,7 @@
 2) Chưa có tìm kiếm nâng cao
 
 ## Login:
+
 ![Alt text](hinh/login.jpg?raw=true "Form đăng nhập")
 
 Đăng nhập tài khoản có phân biệt nhân viên và khách hàng từ đó mở ra screen phù hợp
@@ -25,7 +26,25 @@
 
 ## Screen Quản lý(admin):
 
-![Alt text](hinh/admin/screen.jpg?raw=true "Form đăng nhập")
+![Alt text](hinh/admin/screen.jpg?raw=true "Screen quản lí")
+
+### Chức năng thống kê:
+
+![Alt text](hinh/admin/thongke.jpg?raw=true "Thống kê")
+
+Bao gồm 4 bảng:
+1) Bảng thống kê Doanh Thu  : thống kê tổng tiền của hóa đơn
+2) Bảng thống kê Đường Bay  : thống kế số vé đã đặt của đường bay
+3) Bảng thống kê Nhân Viên  : thống kê số hóa đơn mà nhân viên phụ trách
+4) Bảng thống kê Khách Hàng : thống kê số vé mà khách hàng đã đặt
+
+Có các chức năng sau:
+1) Tìm kếm theo mã
+2) Sắp xếp tăng dần, giảm dần
+3) Xuất file pdf
+
+### Chức năng thống kê:
+
 
 
 
