@@ -28,7 +28,7 @@
 
 ![Alt text](hinh/admin/screen.jpg?raw=true "Screen quản lí")
 
-### 1.Chức năng thống kê:
+###   1. Chức năng thống kê:
 
 ![Alt text](hinh/admin/thongke.jpg?raw=true "Thống kê")
 
@@ -43,7 +43,7 @@ Bao gồm chức năng sau:
 2) Sắp xếp tăng dần, giảm dần
 3) Xuất file pdf
 
-### 2.Chức năng quản lí khách hàng:
+###   2. Chức năng quản lí khách hàng:
 
 ![Alt text](hinh/admin/khachhang.jpg?raw=true "Khách Hàng")
 
@@ -55,7 +55,7 @@ Bao gồm chức năng sau:
 5) Import file excel vào để thêm dữ liệu khách hàng
 6) Export file excel tất cả dữ liệu khách hàng
 
-### 3.Chức năng quản lí nhân viên:
+###   3. Chức năng quản lí nhân viên:
 
 ![Alt text](hinh/admin/nhanvien.jpg?raw=true "Nhân viên")
 
@@ -67,7 +67,7 @@ Bao gồm chức năng sau:
 5) Import file excel vào để thêm dữ liệu nhân viên
 6) Export file excel tất cả dữ liệu nhân viên
 
-### 4.Chức năng quản lí chuyến bay:
+###   4.Chức năng quản lí chuyến bay:
 
 ![Alt text](hinh/admin/chuyenbay.jpg?raw=true "Chuyến bay")
 
@@ -77,7 +77,7 @@ Bao gồm chức năng sau:
 3) Thêm,sửa,xóa thông tin chuyến bay, khi thêm, xóa chuyến bay vé sẽ tự thêm, xóa theo chuyến  bay 
 4) Xuất file pdf tất cả dữ liệu của chuyến bay
 
-### 5.Chức năng quản lí vé:
+###   5.Chức năng quản lí vé:
 
 ![Alt text](hinh/admin/ve.jpg?raw=true "Vé")
 
