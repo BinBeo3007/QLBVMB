@@ -33,7 +33,7 @@ Bao gồm 4 bảng:
 4) Bảng thống kê Khách Hàng : thống kê số vé mà khách hàng đã đặt
 
 Bao gồm chức năng sau:
-1) Tìm kếm theo mã
+1) Tìm kiếm theo mã
 2) Sắp xếp tăng dần, giảm dần
 3) Xuất file pdf
 
@@ -45,7 +45,7 @@ Bao gồm chức năng sau:
 1) Xem thông tin khách hàng
 2) Tìm kiếm khách hàng theo : mã khách hàng, họ, tên
 3) Thêm,sửa,xóa thông tin khách hàng
-4) Tạo và câp nhật mật khẩu cho tài khoản đăng nhập của khách hàng 
+4) Tạo và cập nhật mật khẩu cho tài khoản đăng nhập của khách hàng 
 5) Import file excel vào để thêm dữ liệu khách hàng
 6) Export file excel tất cả dữ liệu khách hàng
 
@@ -57,7 +57,7 @@ Bao gồm chức năng sau:
 1) Xem thông tin nhân viên
 2) Tìm kiếm nhân viên theo : mã nhân viên, họ, tên, mã chức vụ
 3) Thêm,sửa,xóa thông tin nhân viên
-4) Tạo và câp nhật mật khẩu cho nhân viên đăng nhập của nhân viên
+4) Tạo và cập nhật mật khẩu cho nhân viên đăng nhập của nhân viên
 5) Import file excel vào để thêm dữ liệu nhân viên
 6) Export file excel tất cả dữ liệu nhân viên
 
@@ -83,7 +83,7 @@ Bao gồm chức năng sau:
  
  ### 6.Chức năng quản lí hóa đơn:
  
- ![Alt text](hinh/admin/hoadoon.jpg?raw=true "Hóa đơn")
+ ![Alt text](hinh/admin/hoadon.jpg?raw=true "Hóa đơn")
  
 Bao gồm chức năng sau:
 1) Xem thông tin hóa đơn và chi tiết hóa đơn
@@ -109,7 +109,7 @@ Bao gồm chức năng sau:
  
  Bao gồm chức năng sau:
 1) Xem thông tin máy bay
-2) Tìm kiếm khuyến mãi theo: mã máy bay, hảng sản xuất, tổng ghế
+2) Tìm kiếm khuyến mãi theo: mã máy bay, hãng sản xuất, tổng ghế
 3) Thêm thông tin máy bay
 
  ### 9.Chức năng quản lí đường bay:
@@ -132,7 +132,7 @@ Bao gồm chức năng sau:
 
  ### 11.Chức năng quản lí địa điểm:
  
-  ![Alt text](hinh/admin/điaem.jpg?raw=true "Địa điem")
+  ![Alt text](hinh/admin/diadiem.jpg?raw=true "Địa điểm")
  
  Bao gồm chức năng sau:
 1) Xem thông tin địa điểm
@@ -164,4 +164,5 @@ Bao gồm chức năng sau:
 
 ### Lời kết: Cảm ơn vì đã đọc bản báo cáo này . Chúc bạn một ngày tốt lành !!! 
 ### Tác giả : Nguyễn Hoàng Minh Thông
+
 
