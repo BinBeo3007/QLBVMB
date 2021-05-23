@@ -4,10 +4,10 @@
 |STT|Họ và tên       |Email       |
 |---|----------------|----------------|
 |  1|Nguyễn Hoàng Minh Thông|minhthongnh@gmail.com|
-### Hướng dẫn:
+### Hướng dẫn cài đặt:
 1) Tạo database "qlmb" và import file qlmb.sql vào SQL Sever
 2) Import các thư viện liên quan trong thư mục libs
-### Lưu ý:
+### Lưu ý khi cài dặt:
 1) Code được thực hiên trên Eclipse, chạy chương trình trên các phần mềm khác có thể xảy ra lỗi trong quá trình biên dịch
 2) Các ảnh được load trên đồ án sẽ mất vì nó được set link cứng
 3) Code sử dụng sql Server để kết nối database nên nếu sử dụng XAMPP thì phải vào file: database.properties để chỉnh lại thông số cho phù hợp
@@ -16,6 +16,14 @@
 1) Chưa có from đăng ký cho khách hàng
 2) Chưa có tìm kiếm nâng cao
 3) Chưa có phân quyền cho nhân viên
+
+### Hướng dẫn và lưu ý khi sử dụng phần mềm:
+1) Muốn xem chi tiết thông tin của 1 đối tượng thì cần click chuột vào đối tượng đó trên table
+2) Khi thêm và sửa cần phải điền đầy đủ và đúng định dạng của các thông tin
+3) Định dạng ngày là dd-mm-yyyy, còn giờ là hh:mm không có giây
+4) Khi import, file excel phải đúng định dạng như file mẫu (KhachHangIn.xlsx, NhanVienIn.xlsx,...)
+5) Khi eport dữ liệu ra thì tên file là KhachHangOut.xlsx, NhanVienOut.xlsx, ...
+6) Khi in báo cáo thì tên file là ChuyenBay.pdf,...
 ## Login:
 
 ![Alt text](hinh/login.jpg?raw=true "Form đăng nhập")
