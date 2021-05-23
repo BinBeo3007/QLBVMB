@@ -12,11 +12,6 @@
 2) Các ảnh được load trên đồ án sẽ mất vì nó được set link cứng
 3) Code sử dụng sql Server để kết nối database nên nếu sử dụng XAMPP thì phải vào file: database.properties để chỉnh lại thông số cho phù hợp
 4) Có thể có lỗi xảy ra trong quá trình biên dịch do đây là phiên bản demo chưa test trên máy khác
-## Hạn chế:
-1) Chưa có from đăng ký cho khách hàng
-2) Chưa có tìm kiếm nâng cao
-3) Chưa có phân quyền cho nhân viên
-
 ### Hướng dẫn và lưu ý khi sử dụng phần mềm:
 1) Muốn xem chi tiết thông tin của 1 đối tượng thì cần click chuột vào đối tượng đó trên table
 2) Khi thêm và sửa cần phải điền đầy đủ và đúng định dạng của các thông tin
@@ -176,7 +171,11 @@ Bao gồm chức năng sau:
 2) Tìm kiếm chuyến bay theo: Điểm khởi hành - Điểm đến, ngày khởi hành
 3) Check: để xem giá tiền dựa trên loại vé và số lượng vé
 4) Đặt vé, khi đặt vé thì hóa đơn sẽ được tạo với tình trạng chưa thanh toán
-
+## -----------------------------------------------------------------------------------------------------------------
+## Hạn chế:
+1) Chưa có from đăng ký cho khách hàng
+2) Chưa có tìm kiếm nâng cao
+3) Chưa có phân quyền cho nhân viên
 ### Lời kết: Cảm ơn vì đã đọc bản báo cáo này . Chúc bạn một ngày tốt lành !!! 
 ### Tác giả : Nguyễn Hoàng Minh Thông
 
