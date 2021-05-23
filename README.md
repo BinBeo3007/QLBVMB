@@ -178,8 +178,8 @@ Bao gồm chức năng sau:
 2) Chưa có tìm kiếm nâng cao
 3) Chưa có phân quyền cho nhân viên
 ## Tài liệu tham khảo:
-1) [Google site của Nguyễn Xuân Mạnh](https://sites.google.com/site/hduminhnx/home/giang-day/lap-trinh-java)
-2) [Youtube Nguyen Code ](https://www.youtube.com/watch?v=L_fb2Njnfxw)
+1) [Google site của Nguyễn Xuân Mạnh](https://sites.google.com/site/hduminhnx/home/giang-day/lap-trinh-java) - Mô hình ba lớp và kết nối database
+2) [Youtube Nguyen Code ](https://www.youtube.com/watch?v=L_fb2Njnfxw) - Chuyển màn hình
 ## Lời kết: Cảm ơn vì đã đọc bản báo cáo này . Chúc bạn một ngày tốt lành !!! 
 ## Tác giả : Nguyễn Hoàng Minh Thông
 
