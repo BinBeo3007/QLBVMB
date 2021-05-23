@@ -7,7 +7,7 @@
 ### Hướng dẫn cài đặt:
 1) Tạo database "qlmb" và import file qlmb.sql vào SQL Sever
 2) Import các thư viện liên quan trong thư mục libs
-### Lưu ý khi cài dặt:
+### Lưu ý khi cài đặt:
 1) Code được thực hiên trên Eclipse, chạy chương trình trên các phần mềm khác có thể xảy ra lỗi trong quá trình biên dịch
 2) Các ảnh được load trên đồ án sẽ mất vì nó được set link cứng
 3) Code sử dụng sql Server để kết nối database nên nếu sử dụng XAMPP thì phải vào file: database.properties để chỉnh lại thông số cho phù hợp
