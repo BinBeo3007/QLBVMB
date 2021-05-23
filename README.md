@@ -1,4 +1,4 @@
-# Đồ án Java - Quản lý bán vé máy bay# Hướng dẫn cài đặt và minh họa
+# Đồ án Java-Quản lý bán vé máy bay-Hướng dẫn cài đặt và minh họa
 
 ### Người thực hiện:
 |STT|Họ và tên       |Email       |
