@@ -19,7 +19,6 @@
 4) Khi import, file excel phải đúng định dạng như file mẫu (KhachHangIn.xlsx, NhanVienIn.xlsx,...)
 5) Khi eport dữ liệu ra thì tên file là KhachHangOut.xlsx, NhanVienOut.xlsx, ...
 6) Khi in báo cáo thì tên file là ChuyenBay.pdf,...
-## --------------------------------------------------------------------------------------------------------
 # Minh họa
 ## Login:
 
