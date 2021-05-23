@@ -21,7 +21,7 @@
 ![Alt text](hinh/login.jpg?raw=true "Form đăng nhập")
 
 Đăng nhập có phân biệt tài khoản nhân viên và khách hàng từ đó mở ra screen phù hợp.
-Ở đây chưa có phân quyền nhân viên
+Chưa có phân quyền nhân viên
 
 
 ## Screen Quản lý(admin):
