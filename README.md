@@ -179,7 +179,9 @@ Bao gồm chức năng sau:
 3) Chưa có phân quyền cho nhân viên
 ## Tài liệu tham khảo:
 1) [Google site của Nguyễn Xuân Mạnh](https://sites.google.com/site/hduminhnx/home/giang-day/lap-trinh-java) - Mô hình ba lớp và kết nối database
-2) [Youtube Nguyen Code ](https://www.youtube.com/watch?v=L_fb2Njnfxw) - Chuyển màn hình
+2) [Youtube Nguyen Code](https://www.youtube.com/watch?v=L_fb2Njnfxw) - Chuyển màn hình
+3) [Youtube Lập trình & Kĩ thuật máy tính ](https://www.youtube.com/watch?v=RyvrpTelJ4w&t=38s) - Import và Export file excel
+4) [Web it-swarm-vi](https://www.it-swarm-vi.com/vi/java/itext-them-noi-dung-vao-tep-pdf-hien-co/969558358/) - Xuất file PDF
 ## Lời kết: Cảm ơn vì đã đọc bản báo cáo này . Chúc bạn một ngày tốt lành !!! 
 ## Tác giả : Nguyễn Hoàng Minh Thông
 
