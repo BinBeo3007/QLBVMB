@@ -20,6 +20,7 @@
 5) Khi eport dữ liệu ra thì tên file là KhachHangOut.xlsx, NhanVienOut.xlsx, ...
 6) Khi in báo cáo thì tên file là ChuyenBay.pdf,...
 ## --------------------------------------------------------------------------------------------------------
+# Minh họa
 ## Login:
 
 ![Alt text](hinh/login.jpg?raw=true "Form đăng nhập")
