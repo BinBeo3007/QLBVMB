@@ -1,4 +1,8 @@
 # Đồ án Java - Quản lý bán vé máy bay
+### :
+|Họ và tên       |
+|----------------|
+|Nguyễn Hoàng Minh Thông|
 ### Hướng dẫn:
 1) Tạo database "qlmb" và import file qlmb.sql vào SQL Sever
 2) Import các thư viện liên quan trong thư mục libs
