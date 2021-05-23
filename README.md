@@ -12,7 +12,7 @@
 2) Các ảnh được load trên đồ án sẽ mất vì nó được set link cứng
 3) Code sử dụng sql Server để kết nối database nên nếu sử dụng XAMPP thì phải vào file: database.properties để chỉnh lại thông số cho phù hợp
 4) Có thể có lỗi xảy ra trong quá trình biên dịch do đây là phiên bản demo chưa test trên máy khác
-## Hạn chế (sẽ bổ sung sau):
+## Hạn chế:
 1) Chưa có from đăng ký cho khách hàng
 2) Chưa có tìm kiếm nâng cao
 3) Chưa có phân quyền cho nhân viên
