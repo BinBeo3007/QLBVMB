@@ -33,7 +33,7 @@ Chưa có phân quyền nhân viên
 ![Alt text](hinh/admin/thongke.jpg?raw=true "Thống kê")
 
 Bao gồm 4 bảng:
-1) Bảng thống kê Doanh Thu  : thống kê tổng tiền của hóa đơn
+1) Bảng thống kê Doanh Thu  : thống kê giá tiền của hóa đơn
 2) Bảng thống kê Đường Bay  : thống kế số vé đã đặt của đường bay
 3) Bảng thống kê Nhân Viên  : thống kê số hóa đơn mà nhân viên phụ trách
 4) Bảng thống kê Khách Hàng : thống kê số vé mà khách hàng đã đặt
@@ -42,6 +42,7 @@ Bao gồm chức năng sau:
 1) Tìm kiếm theo mã
 2) Sắp xếp tăng dần, giảm dần
 3) Xuất file pdf
+4) Tỉnh tổng
 
 ### 2. Chức năng quản lí khách hàng:
 
