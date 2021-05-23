@@ -19,6 +19,7 @@
 4) Khi import, file excel phải đúng định dạng như file mẫu (KhachHangIn.xlsx, NhanVienIn.xlsx,...)
 5) Khi eport dữ liệu ra thì tên file là KhachHangOut.xlsx, NhanVienOut.xlsx, ...
 6) Khi in báo cáo thì tên file là ChuyenBay.pdf,...
+## --------------------------------------------------------------------------------------------------------
 ## Login:
 
 ![Alt text](hinh/login.jpg?raw=true "Form đăng nhập")
@@ -177,5 +178,7 @@ Bao gồm chức năng sau:
 3) Chưa có phân quyền cho nhân viên
 ### Lời kết: Cảm ơn vì đã đọc bản báo cáo này . Chúc bạn một ngày tốt lành !!! 
 ### Tác giả : Nguyễn Hoàng Minh Thông
+
+## --------------------------------------------------------------------------------------------------------
 
 
