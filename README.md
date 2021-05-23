@@ -173,11 +173,12 @@ Bao gồm chức năng sau:
 3) Check: để xem giá tiền dựa trên loại vé và số lượng vé
 4) Đặt vé, khi đặt vé thì hóa đơn sẽ được tạo với tình trạng chưa thanh toán
 ## --------------------------------------------------------------------------------------------------------
+## Hạn chế
 1) Chưa có from đăng ký cho khách hàng
 2) Chưa có tìm kiếm nâng cao
 3) Chưa có phân quyền cho nhân viên
-### Lời kết: Cảm ơn vì đã đọc bản báo cáo này . Chúc bạn một ngày tốt lành !!! 
-### Tác giả : Nguyễn Hoàng Minh Thông
+## Lời kết: Cảm ơn vì đã đọc bản báo cáo này . Chúc bạn một ngày tốt lành !!! 
+## Tác giả : Nguyễn Hoàng Minh Thông
 
 ## --------------------------------------------------------------------------------------------------------
 
