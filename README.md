@@ -5,7 +5,7 @@
 |---|----------------|----------------|----------------|
 |  1|Nguyễn Hoàng Minh Thông|minhthongnh@gmail.com|Khởi tạo, code 100% đồ án và viết báo cáo|
 ### Hướng dẫn cài đặt:
-1) Tạo database "qlmb" và import file qlmb.sql vào SQL Sever
+1) Tạo database bằng cách import file database/qlmb.sql
 2) Import các thư viện liên quan trong thư mục libs
 ### Lưu ý khi cài đặt:
 1) Code được thực hiện trên Eclipse, chạy chương trình trên các phần mềm khác có thể xảy ra lỗi trong quá trình biên dịch
