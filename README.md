@@ -5,12 +5,12 @@
 |----------|----------------|----------------|----------------|
 |3119410416|Nguyễn Hoàng Minh Thông|minhthongnh@gmail.com|Khởi tạo, code 100% đồ án và viết báo cáo|
 ### Hướng dẫn cài đặt:
-1) Tạo database bằng cách import file database/qlmb.sql
+1) Tạo database bằng cách import file csdl/qlmb.sql
 2) Import các thư viện liên quan trong thư mục libs
 ### Lưu ý khi cài đặt:
 1) Code được thực hiện trên Eclipse, chạy chương trình trên các phần mềm khác có thể xảy ra lỗi trong quá trình biên dịch
 2) Các ảnh được load trên đồ án sẽ mất vì nó được set link cứng
-3) Code sử dụng sql Server để kết nối database nên nếu sử dụng XAMPP thì phải vào file: database.properties để chỉnh lại thông số cho phù hợp
+3) Code sử dụng XAMPP để kết nối database 
 4) Có thể có lỗi xảy ra trong quá trình biên dịch do đây là phiên bản demo chưa test trên máy khác
 ### Hướng dẫn và lưu ý khi sử dụng phần mềm:
 1) Muốn xem chi tiết thông tin của 1 đối tượng thì cần click chuột vào đối tượng đó trên table
